@@ -1,0 +1,2 @@
+ls
+sudo ./VBoxLinuxAdditions.run

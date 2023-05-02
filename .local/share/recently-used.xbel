@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/rahul/Pictures/Screenshots/Screenshot%20from%202023-04-29%2020-35-29.png" added="2023-04-29T15:05:29.560031Z" modified="2023-04-29T15:05:29.560159Z" visited="2023-04-29T15:05:29.560032Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-04-29T15:05:29.560134Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/Pictures/Screenshots/Screenshot%20from%202023-04-29%2021-02-19.png" added="2023-04-29T15:32:19.632384Z" modified="2023-04-29T15:32:19.632389Z" visited="2023-04-29T15:32:19.632385Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-04-29T15:32:19.632387Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/Pictures/Screenshots/Screenshot%20from%202023-04-29%2021-03-49.png" added="2023-04-29T15:33:49.092333Z" modified="2023-04-29T15:33:49.092337Z" visited="2023-04-29T15:33:49.092333Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-04-29T15:33:49.092335Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
